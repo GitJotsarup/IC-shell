@@ -10,4 +10,3 @@ Basically when you run the file, do:
 and then it will run the contents of test.sh line by line
 
 Other than that everything is there except the last bit of milestone 2. for a additional features ive added them all into a function and commented them out.
-also it seg faults when you enter empty im not sure why.
